@@ -1,4 +1,4 @@
-# Welcome to the Dev Home repo!
+# Welcome to the Dev Home repo
 
 This repository contains the source code for:
 
